@@ -6,7 +6,7 @@
 <h3 align="center">Hospital Management System (JAVA-MYSQL)</h3>
 
   <p align="center">
-    This is a Major Project in Java, the main modules of the project is Doctors module, Appointments module, Hospitals module, Nurses module and Patient module, which performs all the operation in their respective domains.
+    This is a Major Project in Java, the main modules of the project is Doctors module, Appointments module, Hospitals module, Nurses module and Patient module, which performs all the operation in their respective domains. This system is used to maintain hospital record like Patient and Doctor information. This Applications allows to generate Invoice for the Patient to maintain billing information.
   </p>
 </div>
 
