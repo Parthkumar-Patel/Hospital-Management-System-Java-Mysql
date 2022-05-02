@@ -100,7 +100,7 @@ After installing MySQL :
 1. Open MySQL
 2. Create Database of name "HMS"
 3. Execute SQL file given below in the folder
-   [](https://github.com/Parthp1810/Hospital-Management-System-Java-Mysql/blob/master/src/create.sql)
+   [https://github.com/Parthp1810/Hospital-Management-System-Java-Mysql/blob/master/src/create.sql](https://github.com/Parthp1810/Hospital-Management-System-Java-Mysql/blob/master/src/create.sql)
 
 ### Netbeans 
 
