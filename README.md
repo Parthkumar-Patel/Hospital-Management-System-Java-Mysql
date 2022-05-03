@@ -100,7 +100,7 @@ After installing MySQL :
 1. Open MySQL
 2. Create Database of name "HMS"
 3. Execute SQL file given below in the folder
-   [https://github.com/Parthkumar-Patel/Hospital-Management-System-Java-Mysql/blob/master/src/create.sql](https://github.com/Parthkumar-Patel/Hospital-Management-System-Java-Mysql/blob/master/src/create.sql)
+   [https://github.com/Patel-Parthkumar/Hospital-Management-System-Java-Mysql/blob/master/src/create.sql](https://github.com/Patel-Parthkumar/Hospital-Management-System-Java-Mysql/blob/master/src/create.sql)
 
 ### Netbeans 
 
@@ -127,7 +127,7 @@ Library :- mysql-connector-java-5.1.23-bin.jar
 <!-- CONTACT -->
 ## Contact
 
-Parthkumar Patel - [@parthp1810](https://www.linkedin.com/in/parthp1810/) - parthp1810@gmail.com
+Parthkumar Patel - [@patel-parthkumar](https://www.linkedin.com/in/patel-parthkumar/) - parthp1810@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
